@@ -2,12 +2,6 @@
 
 ## Hi 👋, I'm Jennifer Hill!
 
-<div align="center">
-	<a href="https://jennifer.fi/">
-		<img src="https://raw.githubusercontent.com/JenniferH0914/JenniferH0914/main/assets/header.svg" width="800" height="400">
-	</a>
-</div>
-
 I am a Full Stack Web Developer from Finland.
 
 ### About Me
