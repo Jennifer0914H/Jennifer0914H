@@ -1,6 +1,6 @@
 <!-- [![Banner](https://raw.githubusercontent.com/JenniferH0914/JenniferH0914/main/assets/banner.png "Banner")](https://jennifer.fi/) -->
 
-## Hi 👋, I'm Jennifer Hill!
+## Hi! 👋
 
 I am a Full Stack Web Developer from Finland.
 
